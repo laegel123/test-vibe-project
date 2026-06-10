@@ -1,0 +1,7 @@
+# 생성된 히트맵 결과물
+pr_heatmap.html
+*.html
+
+# Python
+__pycache__/
+*.pyc
